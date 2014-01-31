@@ -1,0 +1,9 @@
+Implementation of BST in C++
+
+To test type:
+                  make
+
+                  then
+
+                  ./bst
+
